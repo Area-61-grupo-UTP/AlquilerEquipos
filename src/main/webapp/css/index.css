@@ -1,0 +1,11 @@
+.bg-login-image{
+    background: url("../img/bg-login.png");
+    background-position: center;
+    background-size: auto;
+    border: 0px;
+      
+}
+.sizeDiv{
+    width: 50vw;
+       
+}
